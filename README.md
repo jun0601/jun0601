@@ -2,15 +2,17 @@
 
 ## 👋 About Me
 - 🎓 **Focus:** System Administration, Cloud Architecture (AWS), and Network Engineering
-- 📧 **Contact:** [이전과 동일]
+- 📧 **Contact:** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bljh5220@gmail.com)](mailto:bljh5220@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bljh5220@naver.com)](mailto:bljh5220@naver.com)
 
 ### ✍️ Certifications
-- ☁️ **Cloud:** AWS Certified Solutions Architect – Associate
-- 🐧 **OS:** Linux Master (Level 2)
-- 🌐 **Network:** Network Technician (Level 2)
-- 💻 **Dev:** Engineer Information Processing
-- 🤖 **RPA:** Samsung SDS BrityRPA Certification
-- 📢 **Language:** TOEIC Speaking **AL** (Advanced Low)
+| Category | Certification |
+| :--- | :--- |
+| **Cloud & Infra** | AWS Certified Solutions Architect – Associate (SAA) |
+| | Linux Master (Level 2) |
+| **Networking** | Network Technician (Level 2) |
+| **Development** | Engineer Information Processing (정보처리기사) |
+| **Automation** | Samsung SDS BrityRPA Certification |
+| **Language** | TOEIC Speaking **AL** (Advanced Low) |
 ---
 
 ## 🛠 Tech Stack
