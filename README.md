@@ -8,7 +8,7 @@
 - ☁️ **Cloud:** AWS Certified Solutions Architect – Associate
 - 🐧 **OS:** Linux Master (Level 2)
 - 🌐 **Network:** Network Technician (Level 2)
-- 💻 **Dev:** Engineer Information Processing
+- 💻 **Dev:** Engineer Information Processing (정보처리기사)
 - 🤖 **RPA:** Samsung SDS BrityRPA Certification
 - 📢 **Language:** TOEIC Speaking **AL** (Advanced Low)
 ---
