@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunHyeong_LEE&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 ## 👋 About Me
-<p align="left">
-  <a href="https://solved.ac/bljh5220/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bljh5220" alt="Solved.ac Profile"></a>
-</p>
-
 - 🎓 **Focus:** System Administration, Cloud Architecture (AWS), and Network Engineering
 - ✍️ **Certification:** Network Technician & Linux Master & Engineer Information Processing & AWS SAA & TOEIC Speaking AL(Advanced Low) & SamsungSDS BrityRPA Certification
 - 📧 **Contact:** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bljh5220@gmail.com)](mailto:bljh5220@gmail.com)
@@ -27,7 +23,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jun0601&show_icons=true&theme=radical" alt="JunHyeong's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun0601&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
-
+<p align="left">
+  <a href="https://solved.ac/bljh5220/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bljh5220" alt="Solved.ac Profile"></a>
+</p>
 ---
 
 ## 🚩 Most Recent Projects
