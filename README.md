@@ -1,5 +1,3 @@
-# 🚀 Welcome to JunHyeong's Profile
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunHyeong_LEE&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 ## 👋 About Me
@@ -8,7 +6,7 @@
 </p>
 
 - 🎓 **Focus:** System Administration, Cloud Architecture (AWS), and Network Engineering
-- ✍️ **Certification:** Preparing for Linux Master & Network Technician & AWS SAA
+- ✍️ **Certification:** Network Technician & Linux Master & Engineer Information Processing & AWS SAA & TOEIC Speaking AL(Advanced Low) & SamsungSDS BrityRPA Certification
 - 📧 **Contact:** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bljh5220@gmail.com)](mailto:bljh5220@gmail.com)
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bljh5220@naver.com)](mailto:bljh5220@naver.com)
 
