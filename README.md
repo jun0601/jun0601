@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=120&section=header&text=JunHyeong_LEE&fontSize=50&fontColor=58a6ff&animation=twinkling&fontAlignY=55&desc=Cloud%20%7C%20Network%20%7C%20DevOps%20Engineer&descSize=16&descAlignY=80&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:21262d&height=150&section=header&text=JunHyeong_LEE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AWS%20%7C%20Linux%20%7C%20Network&descSize=18&descAlignY=75&descColor=58a6ff)
 
 ## 👋 About Me
 - 🎓 **Focus:** System Administration, Cloud Architecture (AWS), and Network Engineering
