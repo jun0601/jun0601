@@ -1,12 +1,5 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=JunHyeong%20LEE&fontSize=62&fontColor=e6edf3&animation=fadeIn&fontAlignY=50&desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Observability&descSize=17&descAlignY=68&descColor=58a6ff&stroke=1a5276&strokeWidth=1)
- 
-<br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjun0601&count_bg=%230066CC&title_bg=%230d1117&icon=github&icon_color=58a6ff&title=Profile+Views&edge_flat=false)](https://github.com/jun0601)
-[![Gmail Badge](https://img.shields.io/badge/bljh5220@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bljh5220@gmail.com)](mailto:bljh5220@gmail.com)
- 
-</div>
----
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=JunHyeong%20LEE&fontSize=62&fontColor=e6edf3&animation=fadeIn&fontAlignY=50&desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Observability&descSize=17&descAlignY=68&descColor=58a6ff)
+
 
 ## 👋 About Me
 - 🎓 **Focus:** Cloud Infrastructure Engineering, AWS Architecture, Container Orchestration & Observability
