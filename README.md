@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d2137,100:0a3d62&height=220&section=header&text=JunHyeong%20LEE&fontSize=62&fontColor=e6edf3&animation=fadeIn&fontAlignY=50&desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Kubernetes%20%7C%20Observability&descSize=17&descAlignY=68&descColor=58a6ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0a3d62,75:2478b8,100:58a6ff&height=260&section=header&text=JunHyeong%20LEE&fontSize=62&fontColor=e6edf3&animation=twinkling&fontAlignY=36&desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20%C2%B7%20Azure%20%7C%20Kubernetes%20%7C%20Observability%20%7C%20Cloud%20Security%20%C2%B7%20Agentic%20AI&descSize=15&descAlignY=54&descColor=9ecbff)
 
 ## 👋 About Me
-- 🎓 **Focus:** Cloud Infrastructure Engineering, AWS Architecture, Container Orchestration & Observability
+- 🎓 **Focus:** Cloud Infrastructure Engineering, AWS Architecture, Observability & Cloud Security (CNAPP)
 - 🔄 **Background:** 2 years RPA Development (PL) → Cloud/Infrastructure Engineering
 - 🌏 **Experience:** Overseas project lead (Vietnam)
 - 📧 **Contact:** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bljh5220@gmail.com)](mailto:bljh5220@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bljh5220@naver.com)](mailto:bljh5220@naver.com)
