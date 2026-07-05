@@ -77,7 +77,7 @@
 ---
 
 ### 🛡️ CNAPP — 에이전틱 AI 기반 멀티클라우드 보안 플랫폼 `진행 중`
-> 개인 프로젝트 · 2026.06 ~ 진행 중 · AWS(워크로드) + Azure(신원, Entra ID) 멀티클라우드
+> 2인 협업 프로젝트 · 2026.06 ~ 진행 중 · AWS(워크로드) + Azure(신원, Entra ID) 멀티클라우드
 > [📦 cnapp-agentic](https://github.com/jun0601/cnapp-agentic)
 
 - **에이전틱 AI 실증** — 실 Bedrock(Claude)이 read-only tool use로 실 AWS 리소스(S3·IAM·SG 등 API 9종)를 스스로 조사해 위험 판정(CONFIRMED)에 도달하는 능동 조사 루프를 실검증
