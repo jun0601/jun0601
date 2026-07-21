@@ -12,7 +12,7 @@
 - 🌐 **Network:** Network Technician Level 2 (2026.02)
 - 🤖 **RPA:** Samsung SDS BrityRPA Certification (2025.03)
 - 📢 **Language:** TOEIC Speaking **AL** (Advanced Low, 2025.12)
-- 💻 **Dev:** 정보처리기사
+- 💻 **Dev:** 정보처리기사 (2026.09)
 - 🎓 **Training:** Red Hat RHCSA Rapid Track (RH199) 수료 (2026.04)
 
 ---
