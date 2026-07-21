@@ -9,7 +9,7 @@
 ### ✍️ Certifications
 - ☁️ **Cloud:** AWS Certified Solutions Architect – Associate (2026.05)
 - 🐧 **OS:** Linux Master Level 2 {리눅스마스터2급} (2026.04)
-- 🌐 **Network:** Network Technician Level 2 {네트워크 관리사 2급} (2026.02)
+- 🌐 **Network:** Network Technician Level 2 {네트워크관리사2급} (2026.02)
 - 🤖 **RPA:** Samsung SDS BrityRPA Certification (2025.03)
 - 📢 **Language:** TOEIC Speaking **AL** (Advanced Low, 2025.12)
 - 💻 **Dev:** 정보처리기사 (2026.09)
