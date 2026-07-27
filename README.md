@@ -3,7 +3,7 @@
 ## 👋 About Me
 - 🎓 **Focus:** Cloud Infrastructure Engineering, AWS Architecture, Observability & Cloud Security (CNAPP)
 - 🔄 **Background:** 2 years RPA Development (PL) → Cloud/Infrastructure Engineering
-- 🌏 **Experience:** Overseas project lead (Vietnam)
+- 🌏 **Experience:** Overseas project lead (LocknLock_Vietnam)
 - 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/zxxnwood.cloud-2478b8?style=flat-square&logo=cloudflarepages&logoColor=white)](https://zxxnwood.cloud)
 - 📧 **Contact:** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bljh5220@gmail.com)](mailto:bljh5220@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bljh5220@naver.com)](mailto:bljh5220@naver.com)
 
