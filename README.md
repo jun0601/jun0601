@@ -51,10 +51,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats-oqqr.vercel.app/api?username=jun0601&show_icons=true&theme=radical&hide_rank=true&card_width=340&cache_seconds=86400" alt="JunHyeong's GitHub stats" />
-  <img height="160" src="https://github-readme-stats-oqqr.vercel.app/api/top-langs/?username=jun0601&layout=compact&theme=radical&langs_count=6&cache_seconds=86400&exclude_repo=Spatial-Audio-Expansion-and-Voice-Modulation-Program,Artificial-intelligence,Reposit-of-HTML,wildrydes-site,2023-2,Data-structure,Algorithm-Foundation,Embedded-system,AWS,front-app-repo,soldesk-codebuild-react-s3,azure-node20-fancy-app" alt="Most Used Languages" />
-  <a href="https://solved.ac/bljh5220/"><img height="135" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bljh5220" alt="Solved.ac Profile" /></a>
+  <img height="140" src="https://github-readme-stats-oqqr.vercel.app/api?username=jun0601&show_icons=true&theme=radical&hide_rank=true&card_width=395&cache_seconds=86400" alt="JunHyeong's GitHub stats" />
+  <img height="140" src="https://github-readme-stats-oqqr.vercel.app/api/top-langs/?username=jun0601&layout=compact&theme=radical&langs_count=6&card_width=335&cache_seconds=86400&exclude_repo=Spatial-Audio-Expansion-and-Voice-Modulation-Program,Artificial-intelligence,Reposit-of-HTML,wildrydes-site,2023-2,Data-structure,Algorithm-Foundation,Embedded-system,AWS,front-app-repo,soldesk-codebuild-react-s3,azure-node20-fancy-app" alt="Most Used Languages" />
+  <a href="https://solved.ac/bljh5220/"><img height="140" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bljh5220" alt="Solved.ac Profile" /></a>
 </p>
+
 
 ---
 
