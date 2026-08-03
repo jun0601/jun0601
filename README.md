@@ -49,16 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="140" src="https://github-readme-stats-oqqr.vercel.app/api?username=jun0601&show_icons=true&theme=radical&hide_rank=true&card_width=395&cache_seconds=86400" alt="JunHyeong's GitHub stats" />
-  <img height="140" src="https://github-readme-stats-oqqr.vercel.app/api/top-langs/?username=jun0601&layout=compact&theme=radical&langs_count=6&card_width=335&cache_seconds=86400&exclude_repo=Spatial-Audio-Expansion-and-Voice-Modulation-Program,Artificial-intelligence,Reposit-of-HTML,wildrydes-site,2023-2,Data-structure,Algorithm-Foundation,Embedded-system,AWS,front-app-repo,soldesk-codebuild-react-s3,azure-node20-fancy-app" alt="Most Used Languages" />
-  <a href="https://solved.ac/bljh5220/"><img height="140" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bljh5220" alt="Solved.ac Profile" /></a>
-</p>
-
-
----
-
 ## 🚩 Projects
 
 > 아키텍처 · 구현 상세 · 실물 화면 · 트러블슈팅은 **[포트폴리오](https://zxxnwood.cloud)**에 정리되어 있습니다.
@@ -68,3 +58,15 @@
 | 🛡️ **CNAPP** | 에이전틱 AI 기반 멀티클라우드 CNAPP 보안 플랫폼 — Bedrock 에이전트 능동 조사 · 크로스클라우드 attack-path (2인 협업 · 26.06 ~ 26.07) | [레포](https://github.com/jun0601/cnapp-agentic) · [케이스 스터디](https://zxxnwood.cloud/projects/cnapp-agentic/cnapp.html) |
 | 🏭 **StockOps** | AX 환경 ERP 기반 멀티 하이브리드 클라우드 인프라 자동화 & Observability — 담당: 관측 · 배포(IaC) · 보안 · 비용 (4인 팀 · 26.04 ~ 26.06) | [관측](https://github.com/jun0601/siseon-observability) · [모니터링](https://github.com/jun0601/siseon-infra-monitoring) · [보안](https://github.com/jun0601/siseon-security) · [케이스 스터디](https://zxxnwood.cloud/projects/stockops/stockops.html) · [▶ 데모](https://youtu.be/DRUw6HqZfIk) |
 | 🌐 **AWS Hybrid Infra** | 멀티리전 하이브리드 고가용성 인프라 — TGW Peering · Site-to-Site VPN · Global Accelerator (기초 · 26.03) | [케이스 스터디](https://zxxnwood.cloud/projects/aws-hybrid-infra/hybrid.html) |
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="140" src="https://github-readme-stats-oqqr.vercel.app/api?username=jun0601&show_icons=true&theme=radical&hide_rank=true&card_width=395&cache_seconds=86400" alt="JunHyeong's GitHub stats" />
+  <img height="140" src="https://github-readme-stats-oqqr.vercel.app/api/top-langs/?username=jun0601&layout=compact&theme=radical&langs_count=6&card_width=335&cache_seconds=86400&exclude_repo=Spatial-Audio-Expansion-and-Voice-Modulation-Program,Artificial-intelligence,Reposit-of-HTML,wildrydes-site,2023-2,Data-structure,Algorithm-Foundation,Embedded-system,AWS,front-app-repo,soldesk-codebuild-react-s3,azure-node20-fancy-app" alt="Most Used Languages" />
+  <a href="https://solved.ac/bljh5220/"><img height="140" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=bljh5220" alt="Solved.ac Profile" /></a>
+</p>
+
+
+
