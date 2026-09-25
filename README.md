@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0a3d62,75:2478b8,100:58a6ff&height=260&section=header&text=JunHyeong%20LEE&fontSize=62&fontColor=e6edf3&animation=twinkling&fontAlignY=36&desc=Cloud%20&%20DevOps%20Engineer%20%7C%20AWS%20%C2%B7%20Azure%20%7C%20Kubernetes%20%7C%20Observability%20%7C%20Cloud%20Security%20%C2%B7%20Agentic%20AI&descSize=15&descAlignY=54&descColor=9ecbff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0a3d62,75:2478b8,100:58a6ff&height=260&section=header&text=JunHyeong%20LEE&fontSize=62&fontColor=e6edf3&animation=twinkling&fontAlignY=36&desc=Cloud%20DevOps%20Engineer%20%7C%20AWS%20%C2%B7%20Azure%20%7C%20Kubernetes%20%7C%20Observability%20%7C%20Cloud%20Security%20%C2%B7%20Agentic%20AI&descSize=15&descAlignY=54&descColor=9ecbff)
 
 ## 👋 About Me
 - 🎓 **Focus:** Cloud Infrastructure Engineering, AWS Architecture, Observability & Cloud Security (CNAPP)
